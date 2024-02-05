@@ -1,6 +1,13 @@
-#include <bits/stdio.h>
+//Biblioteca de teste unitário básica do C++
+#include <assert.h>
 
-using namespace std;
+//Funções que serão testadas
+
+
+
+
+//Funções de teste
+
 
 int main(){
 
